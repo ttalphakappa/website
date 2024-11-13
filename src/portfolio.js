@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Lily Pad Plunge",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "The Alpha Kappa Pledge Class has been working to design and build a physical arcade-style game that offers an engaging and interactive experience for players.",
   og: {
     title: "Lily Pad Plunge",
     type: "website",
